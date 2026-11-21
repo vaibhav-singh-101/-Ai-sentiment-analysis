@@ -1,0 +1,11 @@
+{
+    "accuracy": 0.3333,
+    "total_records": 30,
+    "training_records": 24,
+    "testing_records": 6,
+    "labels": [
+        "negative",
+        "neutral",
+        "positive"
+    ]
+}
