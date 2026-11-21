@@ -56,4 +56,5 @@ AI_Sentiment_Analysis/
 - README.md
 
 ## Author
-Your Name
+Vaibhav singh
+
